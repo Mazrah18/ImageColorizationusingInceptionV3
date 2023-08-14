@@ -28,11 +28,6 @@ Make sure you have the following dependencies installed:
 - PIL (Pillow)
 - scikit-image
 
-You can install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
-
 
 ## Usage
 
